@@ -7,7 +7,7 @@ This repository contains our submission for **TML Task 2: Stolen Model Detection
 ## Clone the Repository
 
 ``` bash
-  git clone https://github.com/Meethiravi/tml26-task2.git
+  https://github.com/soneekaacharyaa/TML26-Task-2.git
 ```
 
 ## Install the Dependencies
